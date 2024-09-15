@@ -16,7 +16,3 @@ function reverseQueue(Q1, Q2) {
  
   return Q1;
 }
-
-let queue1 = [];
-let queue2 = [1, 2, 3, 4, 6, 7, 8, 9, 10];
-console.log(reverseQueue(queue1, queue2));  
