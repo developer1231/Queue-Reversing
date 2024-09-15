@@ -6,7 +6,7 @@ This simple yet elegant JavaScript implementation demonstrates how to reverse a 
 - Efficient Approach: Reverses a queue by repeatedly dequeuing elements and appending them to an auxiliary queue, preserving queue properties.
 - No External Data Structures: Uses only the input queues for the entire operation, avoiding stacks or arrays for reversal.
 
-** Example **
+**Example**
 
 ```js
 Array.prototype.enqueue = function(elem) {
